@@ -18,33 +18,32 @@ Planned features: <ul>
   <li>waterfall toolbar</li>
 </ul>
 
-Website
-  homepage
-    carousel
-      stories of the month
-      club meeting pictures
-				shitty swordfighting
-					"inspiration at work"
-		main meeting time/places
-	about
-   disciplines
-    our mission
-    brief history
-	officers
-   pictures, bio, contact (?) for each
-	Contact
-    email link to club email or officer email, whatever would get answered regularly
-    maybe a simple form to accomplish the same?
-	calendar
-		google calendar embed
-		above calendar put normal meeting times/places
-	archives
-		previous workshops/events as links to slides/writeups
-	Stories of the Month
-		previous stories, possibly linekd to pull from database
-	Database
-	  log/in system  rpi linked
-	  storage of all wanted writings from each person, can be added/removed at any time
-	  
+Website outline/map
+<ul>
+<li>homepage </li>
+<ul><li>carousel </li>
+<ul><li>stories of the month </li>
+<li>club meeting pictures</ul>
+<li>main meeting time/places</ul>
+<li>about
+<ul><li>disciplines
+<li>our mission
+<li>brief history</ul>
+<li>officers
+<ul><li>pictures, bio, contact (?) for each</ul>
+<li>Contact
+<ul><li>email link to club email or officer email, whatever would get answered regularly
+<ul><li>maybe a simple form to accomplish the same?</ul></ul>
+<li>calendar
+<ul><li>google calendar embed
+<li>above calendar put normal meeting times/places</ul>
+<li>meeting archives
+<ul><li>previous workshops/events as links to slides/writeups</ul>
+<li>Stories of the Month
+<ul><li>previous stories, possibly linekd to pull from database</ul>
+<li>Database
+<ul><li>log/in system  rpi linked
+<li>storage of all wanted writings from each person, can be added/removed at any time</ul>
+</ul>
 	  
 More information to come
