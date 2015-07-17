@@ -18,4 +18,33 @@ Planned features: <ul>
   <li>waterfall toolbar</li>
 </ul>
 
+Website
+  homepage
+    carousel
+      stories of the month
+      club meeting pictures
+				shitty swordfighting
+					"inspiration at work"
+		main meeting time/places
+	about
+   disciplines
+    our mission
+    brief history
+	officers
+   pictures, bio, contact (?) for each
+	Contact
+    email link to club email or officer email, whatever would get answered regularly
+    maybe a simple form to accomplish the same?
+	calendar
+		google calendar embed
+		above calendar put normal meeting times/places
+	archives
+		previous workshops/events as links to slides/writeups
+	Stories of the Month
+		previous stories, possibly linekd to pull from database
+	Database
+	  log/in system  rpi linked
+	  storage of all wanted writings from each person, can be added/removed at any time
+	  
+	  
 More information to come
