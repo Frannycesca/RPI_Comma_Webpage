@@ -24,7 +24,6 @@ Content updates for each meeting/features are all we need now but we have a list
 <h3> What do we want? (in descending priority)</h3>
 <ul>
 <li>Figure out how to get on Union webspace <strong>IN PROGRESS</strong></li>
-<li>Add layout spacerinos on list pages</li>
 <li>format images for low bandwidth usage in GIMP</li>
 <li>Graphic styling. Lower priority, still would be nice but not crucial</li>
 <li>Form on contact page</li>
