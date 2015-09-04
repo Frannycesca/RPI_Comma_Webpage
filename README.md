@@ -2,19 +2,28 @@
 
 Our current web home: http://homepages.rpi.edu/~mcgivm3/RPI_Comma_Webpage/index.html
 
-Contributors: Francesca Huber, Mason Cooper, Demetrius Green, Mark McGivern
+Contributors:
+<ul>
+<li>Mark McGivern</li>
+<ul><li>Webmaster</li></ul>
+<li>Francesca Huber</li>
+<ul><li>Project organizer</li></ul>
+<li>Demetrius Green</li>
+<ul><li>Photographer</li></ul>
+</ul>
 
 <h2> State of the Project </h2>
 <h3> 8/31/15 - Mark McGivern</h3>
 Layout of all pages and text of all pages is ready to ship.
 <h3> What do we need? </h3>
 <ul>
-<li>Photos to be added. Free, public domain, or taken by yourself. No color scheme to comply to (yet)</li>
+<li>Work for Featured Works page</li>
+<li>Fix date, time meeting placeholders</li>
 </ul>
 <h3> What do we want? (in descending priority)</h3>
 <ul>
-<li>Layout sanity check by not-mark</li>
-<li>Figure out how to get on Union webspace</li>
+<li>Add layout spacerinos on list pages</li>
+<li>Figure out how to get on Union webspace <strong>IN PROGRESS</strong</li>
 <li>Graphic styling. Lower priority, still would be nice but not crucial</li>
 <li>Form on contact page</li>
 <li>Last priority: database</li>
@@ -23,7 +32,6 @@ Layout of all pages and text of all pages is ready to ship.
 Planned features: <ul>
   <li>calendar</li>
   <li>story datbase/archive, we could have user accounts and people could load their stories to the site and we could have a page where you could access all stories from</li>
-  <li>main page has caurosel with boxes underneath linking to pages on site</li>
   <li>user profiles to add and remove stories from site</li>
   <li>page allowing people to view all stories on site</li>
 </ul>
