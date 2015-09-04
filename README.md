@@ -23,7 +23,7 @@ Layout of all pages and text of all pages is ready to ship.
 <h3> What do we want? (in descending priority)</h3>
 <ul>
 <li>Add layout spacerinos on list pages</li>
-<li>Figure out how to get on Union webspace <strong>IN PROGRESS</strong</li>
+<li>Figure out how to get on Union webspace <strong>IN PROGRESS</strong></li>
 <li>Graphic styling. Lower priority, still would be nice but not crucial</li>
 <li>Form on contact page</li>
 <li>Last priority: database</li>
