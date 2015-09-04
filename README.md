@@ -13,8 +13,9 @@ Contributors:
 </ul>
 
 <h2> State of the Project </h2>
-<h3> 8/31/15 - Mark McGivern</h3>
-Layout of all pages and text of all pages is ready to ship.
+<h3> 9/3//15 - Mark McGivern</h3>
+Site is essentially ready to share with the world. Seeking hosting through union. 
+Content updates for each meeting/features are all we need now but we have a list of wants.
 <h3> What do we need? </h3>
 <ul>
 <li>Work for Featured Works page</li>
@@ -22,8 +23,9 @@ Layout of all pages and text of all pages is ready to ship.
 </ul>
 <h3> What do we want? (in descending priority)</h3>
 <ul>
-<li>Add layout spacerinos on list pages</li>
 <li>Figure out how to get on Union webspace <strong>IN PROGRESS</strong></li>
+<li>Add layout spacerinos on list pages</li>
+<li>format images for low bandwidth usage in GIMP</li>
 <li>Graphic styling. Lower priority, still would be nice but not crucial</li>
 <li>Form on contact page</li>
 <li>Last priority: database</li>
