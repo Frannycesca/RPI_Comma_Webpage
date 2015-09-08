@@ -1,6 +1,6 @@
 # RPI_Comma_Webpage
 
-Our current web home: http://homepages.rpi.edu/~mcgivm3/RPI_Comma_Webpage/index.html
+Our current web home: http://comma.union.rpi.edu
 
 Contributors:
 <ul>
@@ -14,16 +14,14 @@ Contributors:
 
 <h2> State of the Project </h2>
 <h3> 9/3//15 - Mark McGivern</h3>
-Site is essentially ready to share with the world. Seeking hosting through union. 
-Content updates for each meeting/features are all we need now but we have a list of wants.
+It's out in the world, can be linked to, and spread around. While the wants are option, we really only need content updates every meeting or so.
 <h3> What do we need? </h3>
 <ul>
 <li>Work for Featured Works page</li>
-<li>Fix date, time meeting placeholders</li>
+<li>Meeting content created each meeting</li>
 </ul>
 <h3> What do we want? (in descending priority)</h3>
 <ul>
-<li>Figure out how to get on Union webspace <strong>IN PROGRESS</strong></li>
 <li>format images for low bandwidth usage in GIMP</li>
 <li>Graphic styling. Lower priority, still would be nice but not crucial</li>
 <li>Form on contact page</li>
